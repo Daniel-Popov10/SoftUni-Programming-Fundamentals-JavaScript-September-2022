@@ -3,3 +3,4 @@
 This is a repository with solutions of problems in the course Programming Fundamentals with JavaScript - September 2022 by SoftUni.
 
 1. Basic Syntax, Conditional Statements and Loops
+2. Git and GitHub
